@@ -25,13 +25,25 @@ An interactive **Java GUI-based banking system** built using **Swing, JDBC, and 
 
 ## 📁 Project Structure
 
-- `LoginPage.java` – User login interface
-- `RegisterPage.java` – User registration screen
-- `Dashboard.java` – Main dashboard after login
-- `DBConnection.java` – Database connector
-- `mysql-connector-j-xx.jar` – JDBC driver (must be added to classpath)
-
----
+```
+OnlineBankingSystem/
+│
+├── Project Files/
+│   ├── DBConnection.java        # Handles database connectivity
+│   ├── Dashboard.java           # Main dashboard after successful login
+│   ├── LoginPage.java           # Login screen for users
+│   ├── RegisterPage.java        # Registration screen for new users
+│
+├── assets/
+│   ├── Dashboard.png            # Dashboard UI screenshot
+│   ├── LoginPage.png            # LoginPage UI screenshot
+│   ├── RegisterPage.png         # RegisterPage UI screenshot
+│
+├── Demo Video/
+│   └── Project Execution.mp4    # Demo video of the running project
+│
+└── README.md                    # Project documentation
+```
 
 ## 📦 Prerequisites
 
