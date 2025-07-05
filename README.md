@@ -58,15 +58,23 @@ An interactive **Java GUI-based banking system** built using **Swing, JDBC, and 
 - No encryption or password hashing is implemented.
 - Do **not use in real banking systems or production environments**.
 
+## 💻 Sample UI Screenshots
+
+### 🔐 Login Page  
+![Login Page](assets/LoginPage.png)
+
 ---
 
-## 📸 Sample UI
-
-
+### 📝 Register Page  
+![Register Page](assets/RegisterPage.png)
 
 ---
 
+### 📊 Dashboard Page  
+![Dashboard](assets/Dashboard.png)
+
+---
 ## 📌 Author
 
-Developed by [Your Name]
-
+Developed by **Adam Tejaswini**  
+📧 Email: [adamtejaswini1432@gmail.com](mailto:adamtejaswini1432@gmail.com)
